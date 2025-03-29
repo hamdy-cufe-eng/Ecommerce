@@ -3,7 +3,7 @@
 
 
 
-# Getting Started with ECommerce
+# Getting Started with Ecommerce
 
 <p align="center">
   <a href="" rel="noopener">
@@ -49,7 +49,7 @@
 
 ## About
 
- Advanced Ecommerce made in c# with a flat ui design .
+ Advanced Ecommerce made in React/Typescript with a flat ui design .
 
 ## 💻 Built Using <a name = "tech"></a>
 * ![React](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png)
