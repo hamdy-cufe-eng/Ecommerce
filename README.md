@@ -52,30 +52,15 @@
  Advanced Ecommerce made in c# with a flat ui design .
 
 ## 💻 Built Using <a name = "tech"></a>
-* ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-
-
-
-## 🏁 Get Started /Usage <a name = "install"></a>
-1. **Clone the repository**
-```
-git clone https://github.com/hamdy-cufe-eng/Ecommerce.git
-```
-2. **Install Visual Studio**
-
-
-3. **Open the Projectlder in IDE**
-
-
-- Restore packages
-- 
+* ![React](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png)
 
 
 
 
 
-## Getting Started
+
+
+## Getting Started  <a name = "install"></a>
 
 ### Installation
 
